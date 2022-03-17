@@ -54,3 +54,13 @@ button:hover {
 .details img {
   width: 100%;
 }
+
+.detail {
+  margin: 3em;
+  text-align: center;
+  color: white;
+}
+
+.detailImg {
+  width: 40%;
+}
